@@ -1,4 +1,4 @@
-# Competitive Programmng Codes
+# Competitive Programming Codes
 Codes written by me for various platforms, along with some questions and possibly test datas
 
 Also includes my Failed Attempts, some sample cases, some exclusive questions along with test data etc etc.
