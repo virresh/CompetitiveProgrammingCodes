@@ -1,0 +1,14 @@
+*
+!*/
+!*.*
+*.exe
+*.o
+**/.fuse_*
+*.ilc
+*.ild
+*.map
+*.ils
+*.obj
+*.tds
+*.ilf
+*.H
