@@ -1,0 +1,13 @@
+0
+14
+24
+253
+5861
+2183837
+
+ptime 1.0 for Win32, Freeware - http://www.pc-tools.net/
+Copyright(C) 2002, Jem Berkes <jberkes@pc-tools.net>
+
+===  test3.exe ===
+
+Execution time: 0.418 s

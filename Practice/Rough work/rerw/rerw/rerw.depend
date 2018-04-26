@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1409431372 source:h:\rough work\rerw\rerw\main.cpp
+	<iostream>
+	<cstdio>
+	<math>
+

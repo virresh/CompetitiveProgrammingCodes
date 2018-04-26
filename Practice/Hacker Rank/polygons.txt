@@ -1,0 +1,35 @@
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+
+int main()
+{
+    int t;
+    cin>>t;
+    while(t--)
+    {
+        int n,k,uv,diagonals=0,it,flag=0;
+        cin>>n>>k;
+        uv=n-2;it=n-3;
+        if(k>(n-3)){cout<<0;}
+        else
+        {
+            for(int i=0; i<=uv; i++)
+            {
+                 if(flag==1){it-=1;}
+                 int adfactor=0;
+                 for(int l=0;l<it;l++)
+                    {adfactor+=l;}
+                 diagonals+=adfactor;
+                 if(i%2==0){flag=1;}
+                
+            }
+            cout<<diagonals<<"\n";
+        }    
+    }
+    return 0;
+}

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1409762564 source:h:\rough work\code chef programs\factorialfp\main.cpp
+	<iostream>
+	<math.h>
+
